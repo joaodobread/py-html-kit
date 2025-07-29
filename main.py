@@ -1,5 +1,5 @@
 from flask import Flask
-from src.ssr import (
+from src.py_html_kit import (
     Html, Head, Title, Meta, Body, Main, Section, H1, Form, Label, Input, Button, Ul, Li, Text, Script, Span
 )
 
